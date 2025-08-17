@@ -1,14 +1,14 @@
 {
-  "name": "keith-baileys",
+  "name": "keith-baileys2",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/kkeizzah/keith-baileys2/",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:kkeizzah/keith-baileys2.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
@@ -41,10 +41,10 @@
   "dependencies": {
     "@cacheable/node-cache": "^1.4.0",
     "@hapi/boom": "^9.1.3",
-    "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
+    "@whiskeysockets/eslint-config": "https://github.com/kkeizzah/eslint-config/archive/refs/tags/keith.tar.gz",
     "async-mutex": "^0.5.0",
     "axios": "^1.6.0",
-    "libsignal": "github:WhiskeySockets/libsignal-node",
+    "libsignal": "https://github.com/kkeizzah/libsignal/archive/refs/tags/keith.tar.gz",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
